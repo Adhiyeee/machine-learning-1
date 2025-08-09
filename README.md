@@ -23,17 +23,9 @@ To run the model on the full dataset, download it from Kaggle and place it insid
 
 ---
 
----
 
-## 📊 Dataset
-This project uses the **Pima Indians Diabetes Dataset** from Kaggle.
 
-🔗 [Download Dataset from Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
-A small sample dataset is included in the `data/` folder for demonstration.  
-To run the model on the full dataset, download it from Kaggle and place it inside the `data/` folder.
-
----
 ## 📈 Models Used
 Logistic Regression
 Decision Tree Classifier
