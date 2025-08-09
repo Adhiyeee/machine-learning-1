@@ -1,21 +1,51 @@
-# machine-learning-1
+# 🩺 Diabetes Prediction using Machine Learning
 
-
-This repository documents my daily learning and practice in machine learning.  
-From basic Python & data preprocessing to building and deploying ML models.
-
-# 📅 Learning Plan
-- Python & Pandas basics ✅
-- Data preprocessing ✅
-- Decision Trees ✅
-- Logistic Regression ✅
-- Upcoming: Other ML models + Math + Deployment
-
-#📂 Contents
-- Code for each day’s learning
-- Example datasets used
-- Jupyter notebooks with experiments
+This project predicts the likelihood of a person having diabetes based on medical data using machine learning algorithms.
 
 
 
- *This repo grows daily as I learn and share new projects.*
+## Project Overview
+The goal is to build a predictive model using the **Pima Indians Diabetes Dataset**.  
+We perform data preprocessing, feature scaling, and model training using algorithms such as Logistic Regression, Decision Trees, and more.
+
+---
+
+
+---
+
+## 📊 Dataset
+This project uses the **Pima Indians Diabetes Dataset** from Kaggle.
+
+🔗 [Download Dataset from Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
+A small sample dataset is included in the `data/` folder for demonstration.  
+To run the model on the full dataset, download it from Kaggle and place it inside the `data/` folder.
+
+---
+
+---
+
+## 📊 Dataset
+This project uses the **Pima Indians Diabetes Dataset** from Kaggle.
+
+🔗 [Download Dataset from Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
+A small sample dataset is included in the `data/` folder for demonstration.  
+To run the model on the full dataset, download it from Kaggle and place it inside the `data/` folder.
+
+---
+## 📈 Models Used
+Logistic Regression
+Decision Tree Classifier
+
+## 📉 Evaluation Metrics
+We evaluate models using:
+
+Accuracy
+Precision
+Recall
+F1-score
+Confusion Matrix
+
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
